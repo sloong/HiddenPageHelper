@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HiddenPageHelper</string>
+    <string name="action_usage_access">有权查看使用情况的应用</string>
+    <string name="action_notification_access">通知读取权限</string>
 </resources>
